@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e50914,100:0d1117&height=180&section=header&text=Siva%20Sanjay%20Muthu%20T&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://raw.githubusercontent.com/mackshema/mackshema/main/banner.png" />
 </p>
+
 
 <h2 align="center">AI × Cybersecurity Engineer</h2>
 
