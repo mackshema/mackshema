@@ -103,10 +103,11 @@ improve security decisions using AI-driven insights.
 
 ##  GitHub Stats
 
-## 📊 GitHub Activity
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mackshema&theme=github_dark" />
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mackshema&show_icons=true&count_private=true&theme=github_dark&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 
