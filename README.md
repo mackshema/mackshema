@@ -24,7 +24,7 @@ and protect real-world environments by combining
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I am a **Computer Science (Cyber Security) undergraduate** with a strong interest in
 building **AI-driven security systems** that address real-world problems.
@@ -45,54 +45,54 @@ improve security decisions using AI-driven insights.
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-- 🔐 **AI-Powered Surveillance & Threat Detection**  
+-  **AI-Powered Surveillance & Threat Detection**  
   Real-time AI system that detects violence, weapons, and fire using computer vision
   and deep learning models.
 
-- 🌐 **Automated Web Vulnerability Scanner**  
+-  **Automated Web Vulnerability Scanner**  
   Security automation tool for identifying common web vulnerabilities such as
   XSS and SQL Injection, with structured reporting.
 
-- 🆔 **AI-Based Aadhaar / ID Fraud Detection**  
+-  **AI-Based Aadhaar / ID Fraud Detection**  
   Biometric consistency verification system designed to identify identity misuse
   and potential fraud scenarios.
 
-- 💼 **Debt Collection Management System**  
+-  **Debt Collection Management System**  
   Secure full-stack application for managing debts, payments, and customer workflows
   with role-based access control.
 
-- 🪑 **Hall Harmony Planner**  
+-  **Hall Harmony Planner**  
   Smart exam hall seat allocation system using constraint-based logic and optimized
   seating layouts for institutions.
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
-### 👨‍💻 Programming & Scripting
+###  Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=f7df1e)
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
 
-### 🤖 AI / Machine Learning
+###  AI / Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-20232a?style=flat-square)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0d1117?style=flat-square)
 
-### 🔐 Cybersecurity
+###  Cybersecurity
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-161b22?style=flat-square)
 ![Web Security](https://img.shields.io/badge/Web%20Security-0d1117?style=flat-square)
 ![Threat Detection](https://img.shields.io/badge/Threat%20Detection-8b0000?style=flat-square)
 
-### 🌐 Web & Backend
+###  Web & Backend
 ![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css3&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-### 🛠 Tools & Platforms
+###  Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -101,7 +101,7 @@ improve security decisions using AI-driven insights.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img
@@ -120,5 +120,5 @@ improve security decisions using AI-driven insights.
 ---
 
 <p align="center">
-⭐ Let’s build intelligent and secure systems together.
+ Let’s build intelligent and secure systems together.
 </p>
