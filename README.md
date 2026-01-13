@@ -103,17 +103,12 @@ improve security decisions using AI-driven insights.
 
 ##  GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mackshema&show_icons=true&count_private=true&theme=github_dark&hide_border=true"
-  />
-</p>
+## 📊 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mackshema&layout=compact&count_private=true&theme=github_dark&hide_border=true"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mackshema&theme=github_dark" />
 </p>
+
 
 
 ---
