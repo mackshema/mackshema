@@ -5,7 +5,9 @@
 <h2 align="center">AI × Cybersecurity Engineer</h2>
 
 <p align="center">
-I design intelligent systems that detect threats, prevent fraud, and secure real-world environments by combining Artificial Intelligence with Cybersecurity.
+I design intelligent, security-focused systems that detect threats, prevent fraud,
+and protect real-world environments by combining
+<strong>Artificial Intelligence</strong> with <strong>Cybersecurity</strong>.
 </p>
 
 <p align="center">
@@ -22,58 +24,101 @@ I design intelligent systems that detect threats, prevent fraud, and secure real
 
 ---
 
-##  About Me
+## 🧠 About Me
 
--  Computer Science (Cyber Security) undergraduate  
--  Strong interest in **AI-powered threat detection and intelligent surveillance systems**  
--  Focused on **real-time security, fraud detection, and secure system design**  
--  Hands-on experience with **Computer Vision, Deep Learning, and Web Security**  
--  Actively building projects that solve **real-world security problems**
+I am a **Computer Science (Cyber Security) undergraduate** with a strong interest in
+building **AI-driven security systems** that address real-world problems.
 
----
+My work sits at the intersection of **Artificial Intelligence and Cybersecurity** —
+where machine learning is applied not just for prediction, but for
+**proactive threat detection, fraud prevention, and security automation**.
 
-##  Projects
+I enjoy working on problems that involve:
+- Real-time **AI-powered surveillance and threat detection**
+- **Fraud and identity misuse detection** using computer vision
+- **Web security** and vulnerability analysis
+- Designing **secure, scalable full-stack systems**
 
--  **AI-Powered Surveillance & Threat Detection**  
-  Real-time AI system that detects violence, weapons, and fire using computer vision and deep learning.
-
--  **Automated Web Vulnerability Scanner**  
-  Security automation tool for identifying XSS and SQL Injection vulnerabilities with structured reporting.
-
--  **AI-Based Aadhaar / ID Fraud Detection**  
-  Biometric consistency verification system to identify identity misuse and fraud.
-
--  **Debt Collection Management System**  
-  Secure full-stack application for managing debts, payments, and customer workflows with role-based access.
-
--  **Hall Harmony Planner**  
-  Smart exam hall seat allocation system using constraint-based logic and optimized seating layouts.
+I believe modern security solutions must be **intelligent, automated, and fast**.
+My long-term goal is to contribute to systems that reduce human response time and
+improve security decisions using AI-driven insights.
 
 ---
 
-##  Tech Stack
+## 🚀 Projects
 
+- 🔐 **AI-Powered Surveillance & Threat Detection**  
+  Real-time AI system that detects violence, weapons, and fire using computer vision
+  and deep learning models.
+
+- 🌐 **Automated Web Vulnerability Scanner**  
+  Security automation tool for identifying common web vulnerabilities such as
+  XSS and SQL Injection, with structured reporting.
+
+- 🆔 **AI-Based Aadhaar / ID Fraud Detection**  
+  Biometric consistency verification system designed to identify identity misuse
+  and potential fraud scenarios.
+
+- 💼 **Debt Collection Management System**  
+  Secure full-stack application for managing debts, payments, and customer workflows
+  with role-based access control.
+
+- 🪑 **Hall Harmony Planner**  
+  Smart exam hall seat allocation system using constraint-based logic and optimized
+  seating layouts for institutions.
+
+---
+
+## 🧰 Tech Stack
+
+### 👨‍💻 Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=f7df1e)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
+
+### 🤖 AI / Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-20232a?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0d1117?style=flat-square)
+
+### 🔐 Cybersecurity
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-161b22?style=flat-square)
 ![Web Security](https://img.shields.io/badge/Web%20Security-0d1117?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-20232a?style=flat-square)
+![Threat Detection](https://img.shields.io/badge/Threat%20Detection-8b0000?style=flat-square)
+
+### 🌐 Web & Backend
+![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+### 🛠 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-0d1117?style=flat-square)
+![Antigravity](https://img.shields.io/badge/Antigravity-111111?style=flat-square)
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mackshema&show_icons=true&theme=github_dark&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mackshema&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mackshema&layout=compact&theme=github_dark&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mackshema&layout=compact&theme=dark&hide_border=true&cache_seconds=1800"
+    alt="Top Languages"
+  />
 </p>
 
 ---
 
 <p align="center">
- Let’s build intelligent and secure systems together.
+⭐ Let’s build intelligent and secure systems together.
 </p>
